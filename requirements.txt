@@ -59,3 +59,4 @@ tzdata==2023.4
 urllib3==2.2.0
 xxhash==3.4.1
 yarl==1.9.4
+streamlit==1.31.0
